@@ -1,0 +1,106 @@
+[
+    {
+      "id": 1,
+      "name": "옆집 언니",
+      "regions": [
+        {"sido": "서울특별시", "sigungu": "전체"},
+        {"sido": "경기도", "sigungu": "강서구"}
+    ],
+      "services": ["입주 청소", "에어컨 청소", "이사 청소"],
+      "description": "",
+      "contact": {
+      "instagram": "https://www.instagram.com/yeopzip_sister/"
+    }
+    },
+    {
+      "id": 2,
+      "name": "원더풀 케어",
+      "regions": [
+      {  "sido": "서울특별시", "sigungu": "전체"}],
+      "services": ["에어컨 청소"],
+      "description": "여성이 안심할 수 있는 에어컨 청소 전문 업체",
+      "contact": {
+      "kakao": "https://pf.kakao.com/_IAHgK",
+      "instagram": "http://www.instagram.com/wonder_full_care"
+    }
+    },
+    {
+      "id": 3,
+      "name": "프로미스킴",
+      "regions": [
+      {  "sido": "경기도", "sigungu": "용인시"},
+      {  "sido": "경기도", "sigungu": "성남시"},
+      {  "sido": "경기도", "sigungu": "수원시"}],
+      "services": ["에어컨 청소"],
+      "description": "에어컨 유지보수 및 완전 분해 청소 전문 국가공인 공조냉동 자격보유 대한민국 여성 최고 엔지니어 프로미스킴",
+      "contact": {
+      "instagram": "https://www.instagram.com/promskim/?hl=ko"
+    }
+    },
+    {
+      "id": 4,
+      "name": "돌고래시스템클린",
+      "regions": [
+      {  "sido": "경기도", "sigungu": "의정부시"},
+      {  "sido": "경기도", "sigungu": "남양주시"},
+      {  "sido": "서울특별시", "sigungu": "노원구"},
+      {  "sido": "서울특별시", "sigungu": "도봉구"}],
+      "services": ["에어컨 청소"],
+      "description": "",
+      "contact": {
+      "instagram": "https://www.instagram.com/dolpin.clean/"
+    }
+    },
+    {
+      "id": 5,
+      "name": "우먼꼼꼼클린",
+      "regions": [
+      {  "sido": "경기도", "sigungu": "평택시"}],
+      "services": ["세탁기 청소","에어컨 청소","매트리스 청소"],
+      "description": "언니같은 편안한 에어컨 전문 여성기사가 직접 방문하여 안전하고 꼼꼼하게 청소해드리겠습니다",
+      "contact": {
+      "naver": "https://booking.naver.com/booking/6/bizes/901762"
+    }
+    },
+    {
+      "id": 6,
+      "name": "해피 바이러스",
+      "regions": [
+      {  "sido": "대구광역시", "sigungu": "전체"},
+      {  "sido": "경상북도", "sigungu": "전체"}],
+      "services": ["냉난방기 청소", "에어컨 청소", "디퓨져 청소", "매립덕트 청소", "종합환풍기 설치", "휴젠뜨 설치"],
+      "description": "",
+      "contact": {
+      "naver": "https://naver.me/IFgywFJh"
+    }
+    },
+    {
+      "id": 7,
+      "name": "우먼파워클린",
+      "regions": [
+      {  "sido": "서울특별시", "sigungu": "성동구"}],
+      "services": ["에어컨 청소"],
+      "description": "에어컨청소 여자 기사가 방문합니다. 여자고객님이 사시는 집은 안심하시고 여자기사를 불러주세요. 꼼꼼하게 청소해드립니다!",
+      "contact": {
+      "carrot": "https://www.daangn.com/kr/local-profile/%EC%9A%B0%EB%A8%BC%ED%8C%8C%EC%9B%8C%ED%81%B4%EB%A6%B0-tmbfdoc755pr/"
+    }
+    },
+    {
+      "id": 8,
+      "name": "우먼올클린",
+      "regions": [
+      {  "sido": "서울특별시", "sigungu": "전체"},
+      {  "sido": "경기도", "sigungu": "남양주시"},
+      {  "sido": "경기도", "sigungu": "하남시"},
+      {  "sido": "경기도", "sigungu": "성남시"},
+      {  "sido": "경기도", "sigungu": "의정부시"},
+      {  "sido": "경기도", "sigungu": "양주시"}],
+      "services": ["패브릭 가구 케어"],
+      "description": "각종 생활 오염으로 소파, 매트리스, 카페트 청소 꼼꼼 세심한 여성 전문가가 찾아가니 더욱 안심~",
+      "contact": {
+      "carrot": "https://www.daangn.com/kr/local-profile/%EC%9A%B0%EB%A8%BC%EC%98%AC%ED%81%B4%EB%A6%B0-ae2q53c8v2kx/"
+    }
+    }
+    
+  ]
+  
