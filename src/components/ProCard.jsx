@@ -2,12 +2,14 @@ import kakaoIcon from './assets/icons/kakaotalk.png';
 import instagramIcon from './assets/icons/instargram.png';
 import naverIcon from './assets/icons/naver.png';
 import carrotIcon from './assets/icons/carrot.png';
+import twitterIcon from './assets/icons/twitter.png';
 
 const snsIcons = {
     kakao: kakaoIcon,
     instagram: instagramIcon,
     naver: naverIcon,
     carrot: carrotIcon,
+    twitter: twitterIcon
     // 필요한 SNS 아이콘은 여기서 추가 가능
   };
 

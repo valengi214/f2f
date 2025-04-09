@@ -115,6 +115,48 @@
       "kakao":"https://pf.kakao.com/_xlDlUG",
       "carrot": "https://www.daangn.com/kr/local-profile/%EC%B2%AD%ED%95%98-%ED%99%88%EC%BC%80%EC%96%B4-2sz9yh94dybi/"
     }
+    },
+    {
+      "id": 10,
+      "name": "영클린케어",
+      "regions": [
+      {  "sido": "서울특별시", "sigungu": "관악구"},
+      {  "sido": "서울특별시", "sigungu": "동작구"},
+      {  "sido": "서울특별시", "sigungu": "구로구"}],
+      "services": ["에어컨 청소"],
+      "description": "*여성기사 방문*으로 걱정없이 안심하시고 깨끗하게 에어컨 분해세척 맡기세요.^^",
+      "contact": {
+      "twitter": "https://x.com/youngcleancare",
+      "carrot": "https://www.daangn.com/kr/local-profile/%EC%98%81%ED%81%B4%EB%A6%B0%EC%BC%80%EC%96%B4-10466976/"
+    }
+    },
+    {
+      "id": 11,
+      "name": "365 에어솔루션",
+      "regions": [
+      {  "sido": "서울특별시", "sigungu": "송파구"},
+      {  "sido": "서울특별시", "sigungu": "강남구"},
+      {  "sido": "경기도", "sigungu": "하남시"}],
+      "services": ["에어컨 청소"],
+      "description": "남자기사가 부담스러운 여성분들을 위해 여자기사가 방문을 드리고 있습니다.",
+      "contact": {
+      "naver": "https://blog.naver.com/365airsolution"
+    }
+    },
+    {
+      "id": 12,
+      "name": "율무집수리",
+      "regions": [
+      {  "sido": "인천광역시", "sigungu": "부평구"},
+      {  "sido": "인천광역시", "sigungu": "전체"},
+      {  "sido": "서울특별시", "sigungu": "전체"},
+      {  "sido": "경기도", "sigungu": "전체"}],
+      "services": ["인테리어 필름","가구 조립","방충망 교체","수전 교체","전구 교체"],
+      "description": "여성 1인가구 집수리 서비스",
+      "contact": {
+      "twitter":"https://x.com/yulmu_homecare_",
+      "naver": "https://blog.naver.com/higooti"
+    }
     }
     
   ]
