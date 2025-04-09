@@ -100,6 +100,21 @@
       "contact": {
       "carrot": "https://www.daangn.com/kr/local-profile/%EC%9A%B0%EB%A8%BC%EC%98%AC%ED%81%B4%EB%A6%B0-ae2q53c8v2kx/"
     }
+    },
+    {
+      "id": 9,
+      "name": "청하 홈 케어",
+      "regions": [
+      {  "sido": "서울특별시", "sigungu": "은평구"},
+      {  "sido": "서울특별시", "sigungu": "마포구"},
+      {  "sido": "서울특별시", "sigungu": "서대문구"},
+      {  "sido": "경기도", "sigungu": "고양시"}],
+      "services": ["에어컨 청소","실외기 청소"],
+      "description": "각종 생활 오염으로 소파, 매트리스, 카페트 청소 꼼꼼 세심한 여성 전문가가 찾아가니 더욱 안심~",
+      "contact": {
+      "kakao":"https://pf.kakao.com/_xlDlUG",
+      "carrot": "https://www.daangn.com/kr/local-profile/%EC%B2%AD%ED%95%98-%ED%99%88%EC%BC%80%EC%96%B4-2sz9yh94dybi/"
+    }
     }
     
   ]
